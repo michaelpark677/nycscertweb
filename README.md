@@ -20,8 +20,8 @@ Course 1: Programming in a High Level Language (CSCI 70900)
 Course 2: Data Structures in a High Level Language (CSCI 70300)
 
 The following topics were discussed in this course so far:
-  1. [ArrayLists](
-  2. [LinkedLists](
+  1. [ArrayLists](https://replit.com/@michaelpark677/cohort-3-summer-work-michaelpark677-1#ds/arrayLists/AlPractice.java)  
+  [LinkedLists](
   3. [Pointers](
   4. [Sorting](
 
