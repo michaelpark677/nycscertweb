@@ -2,18 +2,20 @@
 
 #Mr. Park's Summer 2022 Work
 
+
 Course 1: Programming in a High Level Language (CSCI 70900)
 
   The following topics were discussed in this course so far:
   1. [Nims](https://replit.com/@michaelpark677/cohort-3-summer-work-michaelpark677-1#programming/1/Nim.java)
   2. [Arrays](https://replit.com/@michaelpark677/cohort-3-summer-work-michaelpark677-1#programming/2/ArrayPractice.java)  
   3. [Game of Life](https://replit.com/@michaelpark677/cohort-3-summer-work-michaelpark677-1#programming/3/Cgol.java) 
-  4. [Driver](
-  5. [Fence](
-  6. [Fibbonaci](
-  7. [Reverser](
-  8. [Time](
-  9. [SuperArrays](
+  4. [Driver](https://replit.com/@michaelpark677/cohort-3-summer-work-michaelpark677-1#programming/5/Driver.java)  
+  5. [Fence](https://replit.com/@michaelpark677/cohort-3-summer-work-michaelpark677-1#programming/5/Fence.java)  
+  6. [Fibbonaci](https://replit.com/@michaelpark677/cohort-3-summer-work-michaelpark677-1#programming/5/Fib.java)  
+  7. [Reverser](https://replit.com/@michaelpark677/cohort-3-summer-work-michaelpark677-1#programming/5/Reverser.java)  
+  8. [Time](https://replit.com/@michaelpark677/cohort-3-summer-work-michaelpark677-1#programming/5/Time.java)  
+  9. [SuperArrays](https://replit.com/@michaelpark677/cohort-3-summer-work-michaelpark677-1#programming/6/SuperArray.java)
+
 
 Course 2: Data Structures in a High Level Language (CSCI 70300)
 
