@@ -32,4 +32,4 @@ The following topics were discussed in this course so far:
   2. Code Tracing in the Classroom
   3. Unplugged Activities
   4. Scaffolding Activities
-  5. 
+  5. Using Github to create a website.
