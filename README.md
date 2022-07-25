@@ -5,7 +5,7 @@
 Course 1: Programming in a High Level Language (CSCI 70900)
 
   The following topics were discussed in this course so far:
-  1. Nims
+  1. [Nims](https://replit.com/@michaelpark677/cohort-3-summer-work-michaelpark677-1#programming/1/Nim.java)
   2. Arrays
   3. Game of Life
   4. Driver
