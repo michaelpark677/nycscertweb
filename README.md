@@ -21,9 +21,9 @@ Course 2: Data Structures in a High Level Language (CSCI 70300)
 
 The following topics were discussed in this course so far:
   1. [ArrayLists](https://replit.com/@michaelpark677/cohort-3-summer-work-michaelpark677-1#ds/arrayLists/AlPractice.java)  
-  [LinkedLists](
-  3. [Pointers](
-  4. [Sorting](
+  2. [LinkedLists](https://replit.com/@michaelpark677/cohort-3-summer-work-michaelpark677-1#ds/LinkedLists/LinkedList.java)  
+  3. [Nodes](https://replit.com/@michaelpark677/cohort-3-summer-work-michaelpark677-1#ds/LinkedLists/Node.java)  
+  4. [Sorting](https://replit.com/@michaelpark677/cohort-3-summer-work-michaelpark677-1#ds/Sorting/SortSearch.java)
 
 Course 3: Methods for Teaching Computer Science (SEDC 71900)
 
