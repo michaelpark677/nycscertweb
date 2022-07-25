@@ -29,8 +29,8 @@ Course 3: Methods for Teaching Computer Science (SEDC 71900)
 
 The following topics were discussed in this course so far:
 
-  1. [Lesson Planning](
-  2. [Code Tracing in the Classroom](
-  3. [Unplugged Activities](
-  4. [Scaffolding Activities](
-  5. [Using Github to create a website](
+  1. [Lesson Planning](https://replit.com/@michaelpark677/cohort-3-summer-work-michaelpark677-1#methods/02_livecode_java.txt)  
+  2. [Code Tracing in the Classroom](https://replit.com/@michaelpark677/cohort-3-summer-work-michaelpark677-1#methods/03_Trace.txt)  
+  3. [Unplugged Activities](https://replit.com/@michaelpark677/cohort-3-summer-work-michaelpark677-1#methods/04_unplugged.md)  
+  4. [Scaffolding Activities](https://replit.com/@michaelpark677/cohort-3-summer-work-michaelpark677-1#methods/06_scaffolding_activity.py)  
+  5. [Using Github to create a website](https://github.com/michaelpark677/nycscertweb/edit/main/README.md)
